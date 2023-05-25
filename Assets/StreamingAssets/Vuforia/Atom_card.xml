@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Gold-Symbol-300x300" size="1.000000 1.000000" />
-    <ImageTarget name="Iron-Symbol-300x300" size="1.000000 1.000000" />
-    <ImageTarget name="Sulfur-Symbol" size="1.000000 1.000000" />
-    <ImageTarget name="Sodium-Symbol" size="1.000000 1.000000" />
-    <ImageTarget name="Chlorine-Symbol" size="0.375000 0.375000" />
-    <ImageTarget name="Nitrogen-Symbol" size="1.000000 1.000000" />
-    <ImageTarget name="Carbon-Symbol" size="1.000000 1.000000" />
-    <ImageTarget name="Hydrogen-Symbol" size="1.000000 1.000000" />
-    <ImageTarget name="Oxygen-Symbol" size="1.000000 1.000000" />
+    <ImageTarget name="Sulfur-Symbol" size="0.330000 0.330000" />
+    <ImageTarget name="Sodium-Symbol" size="0.330000 0.330000" />
+    <ImageTarget name="Oxygen-Symbol" size="0.330000 0.330000" />
+    <ImageTarget name="Iron-Symbol-300x300" size="0.330000 0.330000" />
+    <ImageTarget name="Hydrogen-Symbol" size="0.330000 0.330000" />
+    <ImageTarget name="Gold-Symbol-300x300" size="0.330000 0.330000" />
+    <ImageTarget name="Chlorine-Symbol-300x300" size="0.330000 0.330000" />
+    <ImageTarget name="Carbon-Symbol" size="0.330000 0.330000" />
   </Tracking>
 </QCARConfig>
